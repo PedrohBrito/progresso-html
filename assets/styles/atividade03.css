@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.circulo {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.c1 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(250, 0, 0);
+    border-radius: 50%;
+}
+.c2 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(252, 247, 0);
+    border-radius: 50%;
+}
+.c3 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(45, 192, 0);
+    border-radius: 50%;
+}
